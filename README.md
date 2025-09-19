@@ -49,4 +49,4 @@ The dataset includes:
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](dashboard.png)  
 
-🔗 Connect with me on [LinkedIn](www.linkedin.com/in/naderemam)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/naderemam)  
