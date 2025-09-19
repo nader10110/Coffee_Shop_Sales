@@ -15,7 +15,7 @@ The dataset includes:
 
 ---
 
-## ❓ Business Question
+##  Business Question❓
 **How can we increase revenue and optimize store performance across days, times, and product categories?**
 
 ---
