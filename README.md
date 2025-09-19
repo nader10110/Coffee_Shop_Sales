@@ -47,6 +47,6 @@ The dataset includes:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Screenshot 2025-09-19 142909.png)  
+![Dashboard Screenshot](dashboard.png)  
 
 🔗 Connect with me on [LinkedIn](your-link)  
