@@ -47,20 +47,6 @@ The dataset includes:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)  
-*(Replace with actual screenshot of your dashboard)*
-
----
-
-## 💡 Next Steps
-- Recreate dashboard in **Power BI** for interactive analysis  
-- Add forecasting to predict sales trends  
-- Expand product analysis for bundle recommendations  
-
----
-
-## 🤝 Feedback
-This is my **first end-to-end Excel project** 🎉  
-I’d love to hear your feedback and suggestions.  
+![Dashboard Screenshot](Screenshot 2025-09-19 142909.png)  
 
 🔗 Connect with me on [LinkedIn](your-link)  
